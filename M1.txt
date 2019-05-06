@@ -1,0 +1,1 @@
+This is a new file named M1 added to local respsitory in master branch
